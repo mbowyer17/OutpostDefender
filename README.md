@@ -33,7 +33,7 @@ Navmesh Bounds Volume:  <br/>
 <br />
 <br />
 Player Character And Npc : <br/>
-<img src="https://i.imgur.com/vgcit9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PI7iMSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
