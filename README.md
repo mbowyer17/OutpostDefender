@@ -1,6 +1,6 @@
 <h1>Outpost Defender - Multiplayer Third-Person Shooter</h1>
 
- ### [Vimeo Demonstration](https://vimeo.com/897008345)
+ ### [Youtube Demonstratio](https://youtu.be/CRWnQBd5-e4)
 
 <h2>Description</h2>
 Developed "Outpost Defender," a third-person shooter using Unreal Engine 5, C++, and Blueprints, focusing on defending an outpost from enemy drones. Introduced artificial intelligence programming using AIController Script and NavMeshBoundsVolume for generating navigational meshes, guiding enemy movements. This project utilises a NpcSpawner to strategically spawn NPCs around the outpost, based on Cartesian coordinates and outpost tagging.
