@@ -36,6 +36,14 @@ Player Character And Npc : <br/>
 <img src="https://i.imgur.com/PI7iMSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Miner Npc Behaviour Tree : <br/>
+<img src="https://i.imgur.com/inqpkT7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Invader Npc Behaviour Tree : <br/>
+<img src="https://i.imgur.com/nab9mbO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
