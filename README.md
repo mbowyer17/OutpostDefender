@@ -10,7 +10,9 @@ Developed "Outpost Defender," a third-person shooter using Unreal Engine 5, C++,
 <h2>Features and Mechanics Used</h2>
 
 - <b>Player Character</b> 
-- <b>Navmesh Bounds Volume</b> 
+- <b>Navmesh Bounds Volume</b>
+- <b>Behaviour Trees</b>
+- <b>Blackboard Behaviour</b> 
 - <b>AI Controller Component</b>
 - <b>Endless Npc Spawn Mechanics</b>
 - <b>Niagara Emitters</b>
@@ -29,11 +31,23 @@ Npc Spawning System: <br/>
 <br />
 <br />
 Navmesh Bounds Volume:  <br/>
-<img src="https://i.imgur.com/DLI358N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fdycyHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Player Character And Npc : <br/>
-<img src="https://i.imgur.com/PI7iMSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RjDn8ct" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Robot Invader Npc : <br/>
+<img src="https://i.imgur.com/D7YnHGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Miner Npc : <br/>
+<img src="https://i.imgur.com/mpyoBvg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Invader Npc : <br/>
+<img src="https://i.imgur.com/M01ZZA1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Miner Npc Behaviour Tree : <br/>
