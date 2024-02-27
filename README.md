@@ -34,7 +34,7 @@ Navmesh Bounds Volume:  <br/>
 <img src="https://i.imgur.com/fdycyHF.png" height="80%" width="80%" alt="d"/>
 <br />
 <br />
-Robot Invader Npc : <br/>
+Drone Invader Npc : <br/>
 <img src="https://i.imgur.com/D7YnHGZ.png" height="80%" width="80%" alt="d"/>
 <br />
 <br />
